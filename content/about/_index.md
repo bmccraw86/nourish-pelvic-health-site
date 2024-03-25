@@ -1,8 +1,29 @@
 ---
 title: "About Us"
 date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+heading : "Pelvic Health Specialists"
+description : "At Nourish Pelvic Health, we look at the whole woman"
 expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+expertise_sectors: [
+    "Pelvic Floor Rehabilitation",
+    "Pre and Postnatal Physical Therapy",
+    "Pelvic Pain Management",
+    "Core Strengthening Exercises",
+    "Diastasis Recti Repair",
+    "Labor and Delivery Preparation Classes",
+    "Postpartum Recovery Programs",
+    "Scar Tissue Release Therapy",
+    "Incontinence Management",
+    "Sexual Dysfunction Therapy",
+    "Pelvic Organ Prolapse Treatment",
+    "Lifestyle and Behavioral Counseling",
+    "Relaxation and Stress Reduction Techniques",
+    "Nutritional Counseling for Women's Health",
+    "Exercise Prescription for Pregnancy and Postpartum",
+    "Manual Therapy Techniques",
+    "Postural Education and Correction",
+    "Preconception Health Counseling",
+    "Fitness Programs Tailored to Women's Health",
+    "Education and Support for Menopause Transition"
+  ]
 ---
