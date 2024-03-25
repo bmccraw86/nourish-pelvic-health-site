@@ -1,4 +1,4 @@
-baseURL       = "https://nourishpelvichealth.com/"
+baseURL       = "/"
 languageCode  = "en-us"
 title         = "Empowering Women to seek the care they deserve"
 theme         = "roxo-hugo"
