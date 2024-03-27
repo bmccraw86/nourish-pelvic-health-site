@@ -1,9 +1,9 @@
-+++
-title = 'Understanding and Managing Incontinence'
-date = 2024-03-27T15:10:30-05:00
-draft = true
+---
+title: 'Understanding and Managing Incontinence'
+date: 2024-03-27T15:10:30-05:00
+draft: true
 author: Ashley McCraw
-+++
+---
 # Understanding and Managing Incontinence: A Guide for Women
 
 Incontinence is a prevalent issue affecting women of all ages, yet it remains a topic often shrouded in silence and stigma. As a physical therapist specializing in pelvic health, I aim to shed light on this condition and provide guidance on how to effectively manage it.
