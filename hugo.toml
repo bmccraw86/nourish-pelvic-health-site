@@ -70,7 +70,6 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "Empower Your Journey to Wellness"
     tagline               = "Holistic Care for Every Stage of Womanhood"
     primary_button        = "Our Services"
