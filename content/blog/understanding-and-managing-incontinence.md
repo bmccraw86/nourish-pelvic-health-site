@@ -1,7 +1,8 @@
 ---
 title: 'Understanding and Managing Incontinence'
 date: 2024-03-27T15:10:30-05:00
-draft: true
+image: images/blog/sad-woman-medium.jpg
+feature-image:
 author: Ashley McCraw
 ---
 # Understanding and Managing Incontinence: A Guide for Women
@@ -30,6 +31,7 @@ Don't let incontinence hold you back. Take charge of your health and reach out t
 
 *References:*
 - Smith, A. L., et al. (2018). Pelvic Floor Muscle Training for Urinary Incontinence in Women: A Systematic Review and Meta-analysis. [*Journal of Women's Health Physical Therapy*](https://journals.lww.com/jwhpt), 42(3), 122-132.
+- <a href="https://www.freepik.com/free-photo/sad-asian-woman-touching-cheek-frowning-having-toothache-need-see-dentist-standing-gloomy-agains_40157228.htm#&position=22&from_view=search&track=ais&uuid=33037c76-8902-46e2-99fc-f2c471a19561">Image by benzoix</a> on Freepik
 
 ---
 
