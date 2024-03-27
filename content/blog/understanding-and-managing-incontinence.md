@@ -1,15 +1,17 @@
 ---
-title: 'Understanding and Managing Incontinence'
+title: "Understanding and Managing Incontinence"
 date: 2024-03-27T15:10:30-05:00
-feature_image: images/blog/sad-woman-medium.jpg
+image: images/blog/sad-woman-thumb.jpg
+feature_image: images/blog/sad-woman-medium.jpeg
 author: Ashley McCraw
 ---
 
+Did you know that approximately **1 in 3 women** experiences some form of incontinence during their lifetime?
+
+
+This statistic highlights the significant impact this condition has on women's lives. Whether it's leaking urine with laughter, coughing, or sneezing (stress incontinence), sudden urges to urinate that are difficult to control (urge incontinence), or a combination of both, incontinence can be distressing and disruptive.
+
 Incontinence is a prevalent issue affecting women of all ages, yet it remains a topic often shrouded in silence and stigma. As a physical therapist specializing in pelvic health, I aim to shed light on this condition and provide guidance on how to effectively manage it.
-
-### The Prevalence of Incontinence
-
-Did you know that approximately **1 in 3 women** experiences some form of incontinence during their lifetime? This statistic highlights the significant impact this condition has on women's lives. Whether it's leaking urine with laughter, coughing, or sneezing (stress incontinence), sudden urges to urinate that are difficult to control (urge incontinence), or a combination of both, incontinence can be distressing and disruptive.
 
 ### The Importance of Seeking Treatment
 
